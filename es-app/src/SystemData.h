@@ -68,7 +68,7 @@ public:
 		videomode = 16384,
 		colorization = 32768,
 		padTokeyboard = 65536,
-
+		autocontrollers = 262144,
 		all = 0x0FFFFFFF
 	};
 
